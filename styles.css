@@ -114,15 +114,17 @@ header .profile-image:hover {
 /* Header images */
 
 .home {
-  background: url('images/seoul.jpg') no-repeat top center ;
+  background: url('images/seoul.jpg') no-repeat top center;
 }
 
 .projects {
-  background: url('images/seoul3.jpg') no-repeat top center ;
+  background: url('images/seoul3.jpg') no-repeat top center;
+  height: 370px;
 }
 
 .contact {
-  background: url('images/contacts.jpg') no-repeat top center ;
+  background: url('images/contacts.jpg') no-repeat top center;
+  height: 370px;
 }
 
 
